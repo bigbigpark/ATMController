@@ -70,7 +70,7 @@ I'll use the first row of it for this demo. <br/>
 
 <br/>
 
-Begin the demo with `./main`.
+Begin the demo with `./main`. <br/>
 Input the card information (id + password).
 
 ![](/fig/1.png)
@@ -89,21 +89,21 @@ From this process, the user can access own bank accout. The three main function 
 
 <br/>
 
-As you already know, the user has $3,050.
+As you already know, the user has $3,050. <br/>
 
 ![](/fig/4.png)
 
 <br/>
 
-You can push the money into your account.
-The total balance is $8,050 now.
+You can push the money into your account. <br/>
+The total balance is $8,050 now. <br/>
 
 ![](/fig/5.png)
 
 <br/>
 
-Also, you can pull out the money from it.
-The total balance is $6,816.
+Also, you can pull out the money from it. <br/>
+The total balance is $6,816. <br/>
 
 ![](/fig/6.png)
 
