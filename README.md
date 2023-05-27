@@ -119,7 +119,6 @@ The last balance after several accessing the account is $6,816. Our ATM service 
 
 ![](/fig/8.png)
 
-
 <br/>
 
 ## Contact
