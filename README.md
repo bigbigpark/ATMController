@@ -42,7 +42,23 @@ make
 
 ## Project Description
 
-Instead of the process that inserts the card and presses the PIN number, I used `std::cin` from the user on console. Like a real bank system I managed all customer's account as a format of txt file. You can check all data at [account_list.txt]("/data/account_list.txt")
+Instead of the process that inserts the card and presses the PIN number, I used `std::cin` from the user on console. Users can input the identification number of card and its password after the program starts. If they are correct information, the customer do following three tasks using our ATM controller.
+
+* Check the balance
+* Deposit the cash into the account
+* Withdraw the money from it
+
+I considered every wrong input command such as any punctuation and mathmatical marks, blank, negative number etc.
+
+
+<br/>
+
+Like a real bank system I managed all customer's account as a format of txt file. You can check all data at [account_list.txt](/data/account_list.txt). Each row means every other account seperated by delimiter `,` meaning **card_id**, **password** and **balance**.
+
+<br/>
+
+## Demo
+
 
 <br/>
 
